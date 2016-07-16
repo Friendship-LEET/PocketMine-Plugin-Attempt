@@ -1,0 +1,6 @@
+name: CopyPaste  # Name of plugin
+description: Allows user to copy and paste messages and allows to repeat messages by imputing number of times it should. # description of plugin
+author: Friendship-LEET # author
+main: Friendship-LEET\Copy-Paste\Main # directory to Main.php or any php you will use as main. Main = Main.php
+version: 1.0.0 # version of your plugin
+api: 1.14.0 
